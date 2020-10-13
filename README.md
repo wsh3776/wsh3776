@@ -2,6 +2,7 @@
 
 <!--
 **ugirc/ugirc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github-readme-stats.vercel.app/api?username=ugirc)
 -->
 Here are some ideas to get you started:
 
@@ -15,4 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-![](https://github-readme-stats.vercel.app/api?username=ugirc)
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=ugirc&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=ugirc&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
