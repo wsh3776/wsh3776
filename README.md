@@ -5,11 +5,11 @@
 ![](https://github-readme-stats.vercel.app/api?username=ugirc)
 -->
 
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=ugirc&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+-->
 
 You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life.
-
-Major in Data Science & Engineering in East China Normal University.
 
 
 
